@@ -254,20 +254,6 @@ The findings suggest that image and clinical text predictions can provide comple
 
 However, the results are preliminary and should not be interpreted as evidence of clinical diagnostic performance.
 
-## 14. Academic Information
-
-**Author:** Suman A L
-
-**Programme:** M.Tech – Operations Research and Data Analytics (ORDA)
-
-**Institute:** Indian Institute of Technology Kharagpur
-
-**Department:** Industrial and Systems Engineering
-
-**Course:** Programming for Data Science Laboratory
-
-**Project Guide:** Prof. Subhajit Sidhanta
-
 ---
 
 *This repository is intended for academic and research purposes. It is not a clinically validated diagnostic system and must not be used as a substitute for professional medical assessment.*
